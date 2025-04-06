@@ -30,7 +30,7 @@ QuadFund introduces a novel, on-chain funding mechanism called **Proof-of-Impact
 - **Wallet Integration:** Sui Wallet Kit
 - **Smart Contracts:** Custom Move modules
 - **Storage:** Sui Programmable Storage
-- **Design:** Figma (inspired by [elasticscale.com](https://elasticscale.com))
+- **Design:** Figma 
 
 ---
 
